@@ -1,0 +1,30 @@
+# Dependencies
+node_modules
+npm-debug.log*
+
+# Next.js build output
+.next
+out
+
+# VCS and editor files
+.git
+.gitignore
+.DS_Store
+.vscode
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Docs and local scripts not needed in image
+README.md
+GETTING_STARTED.md
+QUICKSTART.md
+PROJECT-STRUCTURE.md
+PORTFOLIO-HIGHLIGHTS.md
+CUSTOMIZATION.md
+setup.sh
+cv
